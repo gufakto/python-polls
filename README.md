@@ -27,3 +27,4 @@ Quick start
    to create a poll (you'll need the Admin app enabled).
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
+6. ![Alt text](https://github.com/gufakto/python-polls/blob/master/admin_1.png "Optional title")
